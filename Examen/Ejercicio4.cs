@@ -13,7 +13,7 @@ namespace ExamenesPoo
 
             while (opcion != 6)
             {
-                Console.WriteLine("\n=== Clínica ===");
+                Console.WriteLine("\n Clínica ");
                 Console.WriteLine("1. Registrar paciente");
                 Console.WriteLine("2. Atender siguiente");
                 Console.WriteLine("3. Mostrar fila");
@@ -37,9 +37,20 @@ namespace ExamenesPoo
                         Console.Write("Prioridad (1=urgente, 2=normal): ");
                         int prioridad = int.TryParse(Console.ReadLine(), out int p) ? p : 0;
                         
-                        if (prioridad == 1) urgentes.Add(nombre);
-                        else if (prioridad == 2) normales.Add(nombre);
-                        else Console.WriteLine("Prioridad inválida.");
+                        if (prioridad == 1) 
+                        {
+                            urgentes.Add(nombre);
+                            Console.WriteLine("¡Paciente urgente registrado con éxito! ");
+                        }
+                        else if (prioridad == 2) 
+                        {
+                            normales.Add(nombre);
+                            Console.WriteLine(" ¡Paciente normal registrado con éxito! ");
+                        }
+                        else 
+                        {
+                            Console.WriteLine("Prioridad inválida.");
+                        }
                         break;
 
                     case 2:

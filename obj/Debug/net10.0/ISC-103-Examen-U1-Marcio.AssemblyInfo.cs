@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ISC-103-Examen-U1-Marcio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3545f4b94c7db142e66ba92df43f3622518791d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc6c92ef1ba3b413e18a222ad983dd6c0b047516")]
 [assembly: System.Reflection.AssemblyProductAttribute("ISC-103-Examen-U1-Marcio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ISC-103-Examen-U1-Marcio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

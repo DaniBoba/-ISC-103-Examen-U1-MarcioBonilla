@@ -12,7 +12,7 @@ namespace ExamenesPoo
             int asistieron = 0;
             int faltaron = 0;
 
-            Console.WriteLine("--- Lista de Participantes ---");
+            Console.WriteLine("Lista de Participantes");
             for (int i = 0; i < nombres.Length; i++)
             {
                 string estado = asistencia[i] ? "Asistió" : "Faltó";

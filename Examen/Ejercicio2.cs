@@ -54,7 +54,7 @@ namespace ExamenesPoo
 
             decimal total = subtotal - descuento;
 
-            Console.WriteLine("\n--- Resumen ---");
+            Console.WriteLine("\n Resumen ");
             Console.WriteLine($"Total litros: {litrosCargados}");
             Console.WriteLine($"Subtotal: L. {subtotal:F2}");
             Console.WriteLine($"Descuento: L. {descuento:F2}");

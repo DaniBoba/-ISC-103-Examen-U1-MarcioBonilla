@@ -1,0 +1,15 @@
+C:\Users\dani2\Desktop\ISC-103-Examen-U1-Marcio\bin\Debug\net10.0\ISC-103-Examen-U1-Marcio.exe
+C:\Users\dani2\Desktop\ISC-103-Examen-U1-Marcio\bin\Debug\net10.0\ISC-103-Examen-U1-Marcio.deps.json
+C:\Users\dani2\Desktop\ISC-103-Examen-U1-Marcio\bin\Debug\net10.0\ISC-103-Examen-U1-Marcio.runtimeconfig.json
+C:\Users\dani2\Desktop\ISC-103-Examen-U1-Marcio\bin\Debug\net10.0\ISC-103-Examen-U1-Marcio.dll
+C:\Users\dani2\Desktop\ISC-103-Examen-U1-Marcio\bin\Debug\net10.0\ISC-103-Examen-U1-Marcio.pdb
+C:\Users\dani2\Desktop\ISC-103-Examen-U1-Marcio\obj\Debug\net10.0\ISC-103-Examen-U1-Marcio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dani2\Desktop\ISC-103-Examen-U1-Marcio\obj\Debug\net10.0\ISC-103-Examen-U1-Marcio.AssemblyInfoInputs.cache
+C:\Users\dani2\Desktop\ISC-103-Examen-U1-Marcio\obj\Debug\net10.0\ISC-103-Examen-U1-Marcio.AssemblyInfo.cs
+C:\Users\dani2\Desktop\ISC-103-Examen-U1-Marcio\obj\Debug\net10.0\ISC-103-Examen-U1-Marcio.csproj.CoreCompileInputs.cache
+C:\Users\dani2\Desktop\ISC-103-Examen-U1-Marcio\obj\Debug\net10.0\ISC-103-Examen-U1-Marcio.sourcelink.json
+C:\Users\dani2\Desktop\ISC-103-Examen-U1-Marcio\obj\Debug\net10.0\ISC-103-Examen-U1-Marcio.dll
+C:\Users\dani2\Desktop\ISC-103-Examen-U1-Marcio\obj\Debug\net10.0\refint\ISC-103-Examen-U1-Marcio.dll
+C:\Users\dani2\Desktop\ISC-103-Examen-U1-Marcio\obj\Debug\net10.0\ISC-103-Examen-U1-Marcio.pdb
+C:\Users\dani2\Desktop\ISC-103-Examen-U1-Marcio\obj\Debug\net10.0\ISC-103-Examen-U1-Marcio.genruntimeconfig.cache
+C:\Users\dani2\Desktop\ISC-103-Examen-U1-Marcio\obj\Debug\net10.0\ref\ISC-103-Examen-U1-Marcio.dll
